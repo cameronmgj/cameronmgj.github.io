@@ -1,0 +1,172 @@
+Uri: https://cameronmgj.myportfolio.com/
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\index.htm
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/assembly
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\assembly.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/blastonbury
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\blastonbury.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/cad
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\cad.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/contact
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\contact.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/dist/css/main.css
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\dist\css\main.css
+Content Type: text/css
+
+Uri: https://cameronmgj.myportfolio.com/dist/js/main.js?cb=1f81a2f668f6077716c7aaad295d94bee95c90bb
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\dist\js\main.js
+Content Type: application/javascript
+
+Uri: https://cameronmgj.myportfolio.com/error-catching
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\error-catching.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/fire
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\fire.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/home
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\home.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/html
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\html.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/logic-gates
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\logic-gates.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/portfolio
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\portfolio.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/product-design-project
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\product-design-project.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/python
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\python.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/python-lottery
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\python-lottery.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/resume
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\resume.html
+Content Type: text/html
+
+Uri: https://cameronmgj.myportfolio.com/site/translations?cb=1f81a2f668f6077716c7aaad295d94bee95c90bb
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\site\translations.js
+Content Type: application/javascript
+
+Uri: https://cameronmgj.myportfolio.com/virun
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\virun.html
+Content Type: text/html
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/193221c35933a5a80aa8653ff1ee46951676585468.css?h=28859820d8a92cff66bcc2bdf1a538a3
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\193221c35933a5a80aa8653ff1ee46951676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/1dd92a7cbe950b8c518f450778dde3551676585468.css?h=c52d00b9dd2c025ec02a325d527746da
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\1dd92a7cbe950b8c518f450778dde3551676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/1f6d44beba081ebf905d40de13d3ecc01676585468.css?h=88dae36572dc1176697f316b71de4bb4
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\1f6d44beba081ebf905d40de13d3ecc01676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/241f1c2b303b35354713a826b642667e1676585468.css?h=ac3a8c271ef1df8ffae3ce2ca1b81586
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\241f1c2b303b35354713a826b642667e1676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/2f11b74c-2797-4af3-814b-09f59277d6a0_carw_4x3x32.png?h=902241b43d521c61a3ba4e60f08fafd7
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\2f11b74c-2797-4af3-814b-09f59277d6a0_carw_4x3x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/481aa053-14d5-42d1-8015-a86cc75afd06_rwc_0x28x774x580x32.png?h=8d59d447c855109ae8069d9b7141be48
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\481aa053-14d5-42d1-8015-a86cc75afd06_rwc_0x28x774x580x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/57848ca038815b9b33f3894a4ad88af91676585468.css?h=bd6becee97d0d787548d21d9597899cf
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\57848ca038815b9b33f3894a4ad88af91676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/5a4d48c3f563d229f00882f38752ac281676585468.css?h=2a717374ff0b99c89660ec262e97e4e9
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\5a4d48c3f563d229f00882f38752ac281676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/61229626-5c85-433c-a664-cebad25bba5c_carw_4x3x32.png?h=22708e152640078040147784b251f729
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\61229626-5c85-433c-a664-cebad25bba5c_carw_4x3x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/65536cfa-6492-4643-9908-2fc2d2c014b2_carw_4x3x32.png?h=fecaa742b6dd702674af7464a093f7c0
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\65536cfa-6492-4643-9908-2fc2d2c014b2_carw_4x3x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/67427e2069b44cd580cbadbcad47fa691676585468.css?h=98e2781ef27da69f42cf2abfa5659577
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\67427e2069b44cd580cbadbcad47fa691676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/689bacf6-f382-4a0d-b5a7-bf381dce67b8_rwc_186x0x1106x830x32.png?h=64ee3e767bbb9f486b6112b3984076c5
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\689bacf6-f382-4a0d-b5a7-bf381dce67b8_rwc_186x0x1106x830x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/717829a48b5fad64747b7bf2f577ae731676585468.css?h=2b31486ec5c37ca87b54c20f4714e4a7
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\717829a48b5fad64747b7bf2f577ae731676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/7694e409-65e4-4c9f-910c-b6b516d1c99d_rwc_121x101x229x172x32.png?h=806171818533972f539346b9bdf8b050
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\7694e409-65e4-4c9f-910c-b6b516d1c99d_rwc_121x101x229x172x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/8b722179-3fc5-422e-af1b-67e1785ad973_carw_4x3x32.png?h=12e8259e88c71b845ae80efead685594
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\8b722179-3fc5-422e-af1b-67e1785ad973_carw_4x3x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/9244ad5c9c671c82db29ae554ccf0c7c1676585468.css?h=b2e9f62995173dc64b0eed64785c1240
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\9244ad5c9c671c82db29ae554ccf0c7c1676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/92ea410e-e0e5-4c11-835a-8e9f66e97119_carw_4x3x32.png?h=44ff47e4416857ce4b128843c87fb678
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\92ea410e-e0e5-4c11-835a-8e9f66e97119_carw_4x3x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/9a9fd2d3-bf4b-4f21-a550-7d55cc475b59_carw_4x3x32.png?h=bc27aecdc359c3813b2e25742bdc1ffc
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\9a9fd2d3-bf4b-4f21-a550-7d55cc475b59_carw_4x3x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/b45d9272a0a2cf88620438b42212abe01676585468.css?h=12a1a248f2ef197f982d9a959f6198d8
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\b45d9272a0a2cf88620438b42212abe01676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/be4cf6f8-b00d-4540-b191-21aed1a0cd26_carw_4x3x32.png?h=b7add23e1d216fd1278326af7874236d
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\be4cf6f8-b00d-4540-b191-21aed1a0cd26_carw_4x3x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/ed863e32c202d10ccef9ce1b501f5e751676585468.css?h=7a1501a9565bc08f728e742452db8ffa
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\ed863e32c202d10ccef9ce1b501f5e751676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/fb67120c656c16bbc678e47e7f83901d1676585468.css?h=980d0c6d8531b40d61e3d9326741d342
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\fb67120c656c16bbc678e47e7f83901d1676585468.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/ffe36e8b-6f92-4d44-a3c9-beb49ea22268_rwc_109x0x572x429x32.png?h=7c3bc66c8b08426593c0e926eff72e43
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\84cfff9d-0557-4884-8598-c2e4dd8aeffe\ffe36e8b-6f92-4d44-a3c9-beb49ea22268_rwc_109x0x572x429x32.png
+Content Type: image/png
+
+Uri: https://use.typekit.net/ik/bo6kgEpb_D1LNnF8Nx0epb37JFF6h2DQaO6PxT01fijfenwgfHYEBsJzwD9oFDIDWhJ3wQbDFeJ3ZQI3jR8yFc4KZRmKjDS3jDgywD8cFQqUjDMkwRycFQ9-mkG0dW83da4XZcNC-Av0jhNlOfG0SY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPUlpWgzS1scdhUTdkoRdhXCSY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPJId18XpPGHfw_OMsMMeMb6MKGHfwWOMsMMeMS6MTMgUd7NXM9.js?cb=1f81a2f668f6077716c7aaad295d94bee95c90bb
+File Name: C:\Downloaded Web Sites\portfolio\cameronmgj.myportfolio.com\ik\bo6kgEpb_D1LNnF8Nx0epb37JFF6h2DQaO6PxT01fijfenwgfHYEBsJzwD9oFDIDWhJ3wQbDFeJ3ZQI3jR8yFc4KZRmKjDS3jDgywD8cFQqUjDMkwRycFQ9-mkG0dW83da4XZcNC-Av0jhNlOfG0SY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPUlpWgzS1s.js
+Content Type: text/javascript
+
