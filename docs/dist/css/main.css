@@ -305,7 +305,7 @@ html.lightbox-zoomed #lightbox-img-wrap .lightbox-extra {
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards; }
 
-button[type = "submit"] {
+.js-submit submit-button {
 	display: block;
 	margin: 0 auto;
 }
