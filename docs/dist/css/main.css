@@ -304,3 +304,8 @@ html.lightbox-zoomed #lightbox-img-wrap .lightbox-extra {
   animation-duration: 0.25s;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards; }
+
+button[type = "submit"] {
+	display: block;
+	margin: 0 auto;
+}
