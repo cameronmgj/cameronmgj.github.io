@@ -2847,6 +2847,7 @@ nav {
     margin-bottom: 30px;
     margin-top: -30px; }
   .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] .submit-button {
+	text-align: center;
     border-radius: 5px;
     color: #212121;
     font-family: arial;
@@ -2895,6 +2896,7 @@ nav {
         margin-bottom: 18px;
         margin-top: -18px; }
       .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] .submit-button {
+		text-align: center;
         font-size: 14px;
         height: 38px;
         line-height: 38px; } }
