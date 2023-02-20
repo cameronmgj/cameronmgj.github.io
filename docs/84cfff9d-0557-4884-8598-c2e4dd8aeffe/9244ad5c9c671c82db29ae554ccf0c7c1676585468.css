@@ -3182,3 +3182,6 @@ nav {
       margin-left: 0;
       margin-right: 0;
       margin-top: 0px; } }
+.js-submit-text submit-text preserve-whitespace {
+	text-aling:center;
+}
