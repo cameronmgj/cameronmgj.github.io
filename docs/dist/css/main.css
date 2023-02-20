@@ -306,6 +306,5 @@ html.lightbox-zoomed #lightbox-img-wrap .lightbox-extra {
   animation-fill-mode: forwards; }
 
 .js-submit submit-button {
-	display: flex;
-	justify-content: center;
+	text-align: center;
 }
