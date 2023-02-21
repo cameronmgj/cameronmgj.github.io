@@ -2883,7 +2883,8 @@ nav {
       padding-left: 5%;
       padding-right: 5%;
       margin-bottom: 20px;
-      margin-top: 20px; }
+      margin-top: 20px;
+	  text-align: center; }
       .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] label {
         font-size: 13px;
         margin-bottom: 8px;
