@@ -11,7 +11,7 @@
       <link rel="stylesheet" href="https://cdn.myportfolio.com/84cfff9d-0557-4884-8598-c2e4dd8aeffe/1dd92a7cbe950b8c518f450778dde3551676633421.css?h=a07b24049a4d671fcd2135118994a6bc" type="text/css" />
     <link rel="canonical" href="https://cameronmgj.myportfolio.com/home" />
       <title>Cameron McGrath-Johnston</title>
-    <script type="text/javascript" src="//use.typekit.net/ik/bo6kgEpb_D1LNnF8Nx0epb37JFF6h2DQaO6PxT01fijfenwgfHYEBsJzwD9oFDIDWhJ3wQbDFeJ3ZQI3jR8yFc4KZRmKjDS3jDgywD8cFQqUjDMkwRycFQ9-mkG0dW83da4XZcNC-Av0jhNlOfG0SY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPUlpWgzS1scdhUTdkoRdhXCSY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPJId18XpPGHfw_OMsMMeMb6MKGHfwWOMsMMeMS6MTMgUd7NXM9.js?cb=d6bf889fa22087bba74177ce4553667c1cd167f9" async onload="
+    <script type="text/javascript" src="https://use.typekit.net/ik/bo6kgEpb_D1LNnF8Nx0epb37JFF6h2DQaO6PxT01fijfenwgfHYEBsJzwD9oFDIDWhJ3wQbDFeJ3ZQI3jR8yFc4KZRmKjDS3jDgywD8cFQqUjDMkwRycFQ9-mkG0dW83da4XZcNC-Av0jhNlOfG0SY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPUlpWgzS1scdhUTdkoRdhXCSY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPJId18XpPGHfw_OMsMMeMb6MKGHfwWOMsMMeMS6MTMgUd7NXM9.js?cb=d6bf889fa22087bba74177ce4553667c1cd167f9" async onload="
     try {
       window.Typekit.load();
     } catch (e) {
