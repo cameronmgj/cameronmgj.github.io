@@ -2847,8 +2847,7 @@ nav {
     margin-bottom: 30px;
     margin-top: -30px; }
   .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] .submit-button {
-	float: center;
-	text-align: center;
+	text-align: -webkit-center;
     border-radius: 5px;
     color: #212121;
     font-family: arial;
@@ -2870,14 +2869,14 @@ nav {
       font-weight: normal;
       text-decoration: none;
       text-transform: none;
-	  text-align: center; }
+	  text-align: -webkit-center; }
   .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] .contact-form-sent {
     color: #ffffff;
     font-family: arial;
     font-size: 18px;
     font-style: normal;
     font-weight: normal;
-    text-align: center;
+    text-align: -webkit-center;
     text-transform: none; }
   @media (max-width: 768px) {
     .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] {
@@ -2900,7 +2899,7 @@ nav {
         margin-bottom: 18px;
         margin-top: -18px; }
       .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] .submit-button {
-		text-align: center;
+		text-align: -webkit-center;
         font-size: 14px;
         height: 38px;
         line-height: 38px; } }
@@ -2924,7 +2923,7 @@ nav {
         margin-bottom: 16px;
         margin-top: -16px; }
       .project-module-form[data-id='m63ed1e19b81ae6c428730f034f0068b49a85c27e3e66472bd5888'] .submit-button {
-		text-align: center;
+		text-align: -webkit-center;
         font-size: 14px;
         height: 35px;
         line-height: 35px; } }
