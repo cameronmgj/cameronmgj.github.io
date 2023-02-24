@@ -244,6 +244,7 @@ button,
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
+  text-align: -webkit-center;
   -webkit-appearance: button;
   /* 2 */
   cursor: pointer;
@@ -1783,6 +1784,7 @@ nav {
   .modules .form input,
   .modules .form textarea,
   .modules .form .submit-button {
+	text-align: -webkit-center;
     border-style: solid;
     border-width: 1px;
     outline: none; }
@@ -1813,6 +1815,7 @@ nav {
       overflow: hidden;
       white-space: nowrap; }
   .modules .form .submit-button {
+	text-align: -webkit-center;
     cursor: pointer;
     display: inline-block;
     overflow: hidden;

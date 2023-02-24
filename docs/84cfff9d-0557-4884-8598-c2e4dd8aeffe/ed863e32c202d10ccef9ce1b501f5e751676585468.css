@@ -244,6 +244,7 @@ button,
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
+  text-align:-webkit-center;
   -webkit-appearance: button;
   /* 2 */
   cursor: pointer;
