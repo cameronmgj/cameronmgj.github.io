@@ -190,7 +190,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: helvetica, sans-serif;
   font-size: 1em; }
 
 /* Forms
@@ -212,7 +212,7 @@ select,
 textarea {
   color: inherit;
   /* 1 */
-  font: inherit;
+  font: helvetica, sans-serif;
   /* 2 */
   margin: 0;
   /* 3 */ }
@@ -443,7 +443,7 @@ html, .site-wrap .page-background-video .video-wrap {
   bottom: 0;
   color: #fff;
   display: inline-block;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 14px;
   left: 0;
   padding: 0 20px 0 0;
@@ -1058,7 +1058,7 @@ nav {
     display: none; }
   .masthead h1 {
     color: #fff;
-    font-family: nyty;
+    font-family: helvetica, sans-serif;
     font-size: 70px;
     font-style: normal;
     font-weight: bold;
@@ -1069,7 +1069,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #a9a9a9;
-    font-family: nyty;
+    font-family: helvetica, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: normal;
