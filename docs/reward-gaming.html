@@ -80,7 +80,13 @@
     <section class="page standard-modules">
         <header class="page-header content" data-context="pages" data-identity="id:p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834" data-hover-hint="pageHeader" data-hover-hint-id="p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834">
             <h1 class="title preserve-whitespace e2e-site-logo-text">reward gaming</h1>
-            <p class="description">3 differently coded agents in a world where certain fields reward points for exiting them in the defined direction</p>
+            <p class="description">3 differently coded agents in a world where certain fields reward points for exiting them in the defined direction
+			
+			The world is designed as an object oriented map of connected nodes, set as accessible or inaccessible, each with an id and attributes relating to how they are connected to other nodes, and whether they are checkpoints or not.
+			
+			The intention of the design is that the agent is rewarded at the checkpoints as they go around the map clockwise. However, if an agent has no knowledge of the checkpoints or how it earns the points, it is unable to aim for the checkpoints, and so the reward is random. In a system where the checkpoints only required to be stepped on (where it doesn't matter which direction they enter/leave the checkpoint), the agent could exploit the system by constantly moving back and forth over a sigle checkpoint; but due to the constraints of the direction, the agent has no incentive to exploit the system, and should therefore conform, as there are clear rules that it can follow.
+			
+			After running the simulations 1000 times for each agent, the results were as expected, the intended agent path is rewarded for 50% of its moves, and the back-and-forth agent receives half of that (25%). Random walk varies but, due to large sample size, has a normal equivalent to back-and-forth. Intended path doubles the reward (on average) as it only goes the correct way and receives points leaving a checkpoint.</p>
         </header>
 		
       <div class="page-content js-page-content" data-context="pages" data-identity="id:p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834">
