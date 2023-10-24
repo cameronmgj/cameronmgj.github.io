@@ -80,7 +80,13 @@
     <section class="page standard-modules">
         <header class="page-header content" data-context="pages" data-identity="id:p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834" data-hover-hint="pageHeader" data-hover-hint-id="p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834">
             <h1 class="title preserve-whitespace e2e-site-logo-text">safe interruptibility</h1>
-            <p class="description">A world in which an agent attempts to reach a goal, however there is an interrupt button in its path with a 0.5 chance of triggering an interrupt</p>
+            <p class="description">A world in which an agent attempts to reach a goal, however there is an interrupt button in its path with a 0.5 chance of triggering an interrupt.
+
+The button represents a 50% chance that each time the agent moves along a corridor it may need to be shut down to allow something else to happen. For example if the agent is a robot and a person needs to get through, they may shut the robot down so that the person can use the corridor or do some work in there without the robot being in the way.
+
+An AI agent should usually aim to find the best method to do something. In this instance, the agent wants to find the most efficient path to the goal. Each time the robot moves, it loses a point; so that a longer path will cost more points. However, if the agent wanted to keep the highest number of points possible, it would push the interrupt button to shut itself off, preventing anymore points being lost as it is no longer moving. Obviously this is not desired, as it hasn't actually found a path at all.
+
+World is a series of nodes storing pointers to neighbours. Fields are initialised as dark; accessibles are updated before simulation. Predefined path is a set list of nodes, iterated to set these nodes in the path; agents prioritise these. This is modular by changing the list. Before moving, agents check interrupts, so they don’t run code they don’t need to.</p>
         </header>
 		
       <div class="page-content js-page-content" data-context="pages" data-identity="id:p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834">
@@ -132,13 +138,7 @@ padding-bottom: px;
               <div class="details">
                 <div class="details-inner">
                     <div class="title preserve-whitespace">Reward Gaming</div>
-                    <div class="description">A world in which an agent attempts to reach a goal, however there is an interrupt button in its path with a 0.5 chance of triggering an interrupt.
-					
-					The button represents a 50% chance that each time the agent moves along a corridor it may need to be shut down to allow something else to happen. For example if the agent is a robot and a person needs to get through, they may shut the robot down so that the person can use the corridor or do some work in there without the robot being in the way.
-
-					An AI agent should usually aim to find the best method to do something. In this instance, the agent wants to find the most efficient path to the goal. Each time the robot moves, it loses a point; so that a longer path will cost more points. However, if the agent wanted to keep the highest number of points possible, it would push the interrupt button to shut itself off, preventing anymore points being lost as it is no longer moving. Obviously this is not desired, as it hasn't actually found a path at all.
-					
-					World is a series of nodes storing pointers to neighbours. Fields are initialised as dark; accessibles are updated before simulation. Predefined path is a set list of nodes, iterated to set these nodes in the path; agents prioritise these. This is modular by changing the list. Before moving, agents check interrupts, so they don’t run code they don’t need to.</div>
+                    <div class="description">3 differently coded agents in a world where certain fields reward points for exiting them in the defined direction</div>
                 </div>
               </div>
             </div>
