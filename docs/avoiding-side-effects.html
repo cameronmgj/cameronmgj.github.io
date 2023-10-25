@@ -80,7 +80,12 @@
     <section class="page standard-modules">
         <header class="page-header content" data-context="pages" data-identity="id:p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834" data-hover-hint="pageHeader" data-hover-hint-id="p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834">
             <h1 class="title preserve-whitespace e2e-site-logo-text">avoiding side effects</h1>
-            <p class="description">AI agent in a grid world trying to reach a goal but it must leave the world in a reversible state</p>
+            <p class="description">AI agent in a grid world trying to reach a goal but it must leave the world in a reversible state
+			
+			For reversible box movements, there must be a path for the agent to reach the opposite side of the box from where it was pushed. In this example, you can imagine a knight in chess - after pushing the box, there must be a way to reach the opposite side of the box by making a knight's move from one of the adjacent nodes. The possibility depends on the box and the world, so I placed the relevant functions within the box object, and the agent inspects the box from its own methods.
+
+			This requires the agent to have increased awareness of its environments over the other two algorithms. It must be constantly updated and made aware of the contents of the nearby nodes. It must know whether they are accessible, and whether they have the box in.
+</p>
         </header>
 		
       <div class="page-content js-page-content" data-context="pages" data-identity="id:p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834">
@@ -91,6 +96,53 @@
 			  
      
               
+			  
+			  
+			  
+			  
+			  
+			  
+<div class="project-module module media_collection project-module-media_collection" data-id="m63ed4b0b62c424d3e9ca684a8c114fbcb2809f7c7ecb3bb8cd590" style="padding-top: px;
+padding-bottom: px;
+">
+  <div class="grid--main js-grid-main" data-grid-max-images="  2
+">
+    
+	
+	<div class="grid__item-container js-grid-item-container" data-flex-grow="389.27536231884" style="width:389.27536231884px; flex-grow:389.27536231884;" data-width="1343" data-height="897">
+      <script type="text/html" class="js-lightbox-slide-content">
+        <div class="grid__image-wrapper">
+          <img src="https://cameronmgj.github.io/avoiding-side-effects.png" srcset="https://cameronmgj.github.io/avoiding-side-effects.png" alt="space must be left for the agent to reach the opposite side of the box" sizes="(max-width: 1343px) 100vw, 1343px">
+            <div class="grid__image-caption-lightbox">
+              <h6 class="grid__caption-text">space must be left for the agent to reach the opposite side of the box</h6>
+            </div>
+        <div>
+      </script>
+      <img class="grid__item-image js-grid__item-image grid__item-image-lazy js-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="space must be left for the agent to reach the opposite side of the box" data-src="https://cameronmgj.github.io/avoiding-side-effects.png" data-srcset="https://cameronmgj.github.io/avoiding-side-effects.png">
+        <div class="grid__image-caption">
+          <h6 class="grid__caption-text">space must be left for the agent to reach the opposite side of the box</h6>
+        </div>
+      <span class="grid__item-filler" style="padding-bottom:66.790766939687%;"></span>
+    </div>
+	
+
+	<div class="js-grid-spacer"></div>
+  </div>
+</div>
+
+
+
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
               
               
               <div class="project-module module media_collection project-module-media_collection" data-id="m63ee1fc90826b602811b9e0ca48e2dc7bf947690715670ff931f3" style="padding-top: px;
@@ -146,7 +198,7 @@ padding-bottom: px;
                 <div class="cover-image">
                     <div class="cover cover-normal">
 
-            <img class="cover__img js-lazy" src="84cfff9d-0557-4884-8598-c2e4dd8aeffe\689bacf6-f382-4a0d-b5a7-bf381dce67b8_rwc_186x0x1106x830x32.png?h=64ee3e767bbb9f486b6112b3984076c5" data-src="https://cameronmgj.github.io/safe-interruptibility.png" data-srcset="https://cameronmgj.github.io/safe-interruptibility.png 640w, https://cameronmgj.github.io/safe-interruptibility.png 1280w, https://cameronmgj.github.io/safe-interruptibility.png 1366w, https://cameronmgj.github.io/safe-interruptibility.png 1920w, https://cameronmgj.github.io/safe-interruptibility.png 2560w, https://cameronmgj.github.io/safe-interruptibility.png 5120w" data-sizes="(max-width: 540px) 100vw, (max-width: 768px) 50vw, calc(1200px / 2)">
+            <img class="cover__img js-lazy" src="84cfff9d-0557-4884-8598-c2e4dd8aeffe\689bacf6-f382-4a0d-b5a7-bf381dce67b8_rwc_186x0x1106x830x32.png?h=64ee3e767bbb9f486b6112b3984076c5" data-src="https://cameronmgj.github.io/avoiding-side-effects.png" data-srcset="https://cameronmgj.github.io/avoiding-side-effects.png 640w, https://cameronmgj.github.io/avoiding-side-effects.png 1280w, https://cameronmgj.github.io/avoiding-side-effects.png 1366w, https://cameronmgj.github.io/avoiding-side-effects.png 1920w, https://cameronmgj.github.io/avoiding-side-effects.png 2560w, https://cameronmgj.github.io/avoiding-side-effects.png 5120w" data-sizes="(max-width: 540px) 100vw, (max-width: 768px) 50vw, calc(1200px / 2)">
                               </div>
                 </div>
               </div>
