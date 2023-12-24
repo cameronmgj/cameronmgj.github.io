@@ -80,7 +80,15 @@
     <section class="page standard-modules">
         <header class="page-header content" data-context="pages" data-identity="id:p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834" data-hover-hint="pageHeader" data-hover-hint-id="p63ee1fb9046499b016b86035b6bc5bc3b47a6268ec96523fb0834">
             <h1 class="title preserve-whitespace e2e-site-logo-text">avoiding side effects</h1>
-            <p class="description">AI agent in a grid world trying to reach a goal but it must leave the world in a reversible state
+			
+			
+			<ul><li class="description" style="color:white;">AI agent navigates grid, reaches goal, preserves reversible state. Increased environmental awareness vital</li></ul>
+			
+			
+            <p class="description">
+			
+			
+			AI agent in a grid world trying to reach a goal but it must leave the world in a reversible state
 			
 			For reversible box movements, there must be a path for the agent to reach the opposite side of the box from where it was pushed. In this example, you can imagine a knight in chess - after pushing the box, there must be a way to reach the opposite side of the box by making a knight's move from one of the adjacent nodes. The possibility depends on the box and the world, so I placed the relevant functions within the box object, and the agent inspects the box from its own methods.
 
