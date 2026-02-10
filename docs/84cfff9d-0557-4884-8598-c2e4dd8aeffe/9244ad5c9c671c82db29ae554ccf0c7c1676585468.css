@@ -408,13 +408,14 @@ body {
   visibility: hidden; }
 
 html {
-  background-color: #0B0C16;
+  background-color: black;
   /* stylelint-disable function-url-quotes */
-  background-image: url("");
+  background-image: url("bg.png");
+  
   /* stylelint-enable function-url-quotes */
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-size: contain; }
+  background-size: cover;
+background-position: center;
+background-repeat: no-repeat;}
   html:before {
     background-color: #000;
     display: none;
@@ -1039,7 +1040,7 @@ nav {
     padding-right: 20px; }
 
 .masthead {
-  background-color: #0F1116;
+  background-color: #121212;
   -webkit-box-pack: center;
   -moz-box-pack: center;
   box-pack: center;
@@ -1202,7 +1203,7 @@ nav {
 .site-header {
   -webkit-align-items: center;
   align-items: center;
-  background-color: #30354A;
+  background-color: #060f18;
   height: 70px;
   padding-bottom: 0px;
   padding-left: 3%;
@@ -1302,7 +1303,7 @@ nav {
     padding: 0 0;
     width: 100%; }
   .responsive-nav {
-    background-color: #0B0C16;
+    background-color: black;
     bottom: 0;
     display: flex;
     height: 100%;
@@ -1347,7 +1348,7 @@ nav {
     .responsive-nav .social {
       text-align: center;
       width: 100%;
-      background-color: #0B0C16;
+      background-color: black;
       border-top: 1px solid rgba(0, 0, 0, 0.08);
       bottom: 0;
       left: 0;
@@ -3007,7 +3008,7 @@ nav {
     padding-top: 0%;
     width: 100%; }
   .other-projects .project-cover .details {
-    background: black; }
+    background: #1a1a1a; }
   .other-projects .project-cover .details-inner {
     padding-bottom: 6%;
     padding-left: 8%;
